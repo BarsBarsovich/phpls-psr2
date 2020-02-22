@@ -2,8 +2,8 @@
 /**
  * @ const
  */
-CONST TEST_CONSTANTA = 'asd';
-$user_name = "Igor";
+const TEST_CONSTANTA = 'asd';
+$userName = "Igor";
 
 require_once 'functions.php';
 
