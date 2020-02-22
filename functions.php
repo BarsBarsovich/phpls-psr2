@@ -6,5 +6,5 @@
  */
 function showSomething()
 {
-    RETURN 'SOMETHING';
+    return 'SOMETHING';
 }
