@@ -2,18 +2,10 @@
 /**
  * @ const
  */
-CONST TESTCONSTANTA = 'asd';
+CONST TEST_CONSTANTA = 'asd';
 $user_name = "Igor";
 
-/**
- * @ Some desc
- *
- * @return string
- */
-function Show_something()
-{
-    RETURN 'SOMETHING';
-}
+require_once 'functions.php';
 
 if (1 == 1) {
     echo 'hi';
